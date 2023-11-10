@@ -2,7 +2,7 @@
 
 #include <EEPROM.h>
 
-int retardo = 325;
+int retardo = 300;
 int LED_bar[] = {1, 2, 4, 8, 16};
 int position;
 
